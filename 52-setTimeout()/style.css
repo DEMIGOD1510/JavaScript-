@@ -1,0 +1,11 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 3em;
+  background-color: #000;
+  color: #fff;
+}
+
+.button{
+  font-size: 100px;
+}
